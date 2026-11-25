@@ -2,7 +2,7 @@
 
 Static site for flywestridge.com (Westridge Private Aviation). Plain HTML, no build step.
 
-- Pages: `index.html`, `on-demand-charter.html`, `aircraft.html`, `why-westridge.html`, `safety.html`, `about.html`, `request-a-quote.html` (`request-a-trip.html` redirects to it; `how-we-work.html` redirects to `on-demand-charter.html`; `destinations.html` and `destinations-tahoe.html` redirect to the home page)
+- Pages: `index.html`, `on-demand-charter.html`, `aircraft.html`, `why-westridge.html`, `safety.html`, `about.html`, `request-a-quote.html`
 - Styles are inline per element; `assets/site.css` holds the base rules and the mobile menu breakpoint; `assets/site.js` passes the home page quote fields to the request form
 - Images: `assets/img/`, Unsplash photos graded to the palette
 
