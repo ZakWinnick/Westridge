@@ -1,0 +1,6 @@
+body{margin:0}
+a{color:inherit}
+a:hover{opacity:.8}
+a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,textarea:focus-visible{outline:2px solid #A9875A;outline-offset:3px}
+.w-nav{display:flex}.w-menu{display:none}.w-panel{display:none}
+@container page (max-width: 900px){.w-nav{display:none}.w-menu{display:flex}.w-panel{display:flex}}
